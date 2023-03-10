@@ -3,7 +3,7 @@
  Definir una variable tipoMotor y permitir
  que el usuario ingrese un valor entre 1 y 4. El programa debe mostrar lo siguiente:
  */
- 
+ import java.util.Scanner;
  class Ejercicio7_Guia{
 	 public static void main (Syring[] args){
 		Scanner leer = new Scanner(System.in);
